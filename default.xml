@@ -20,7 +20,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="android_build-1" remote="dg" revision="cm-11" " >
+  <project path="build" name="android_build-1" remote="dg" revision="cm-11" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
